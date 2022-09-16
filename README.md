@@ -1,3 +1,4 @@
 # frtp
 This is my final project 
 #Azure link https://lively-forest-0fbacf410.1.azurestaticapps.net/
+  I have created a website named as Food For Life using HTML , CSS , Java script . It helps to the people to get an idea about what should have to eat for better health and people will allow to know about food and their properties . In my website I have designed three pages named as home , about , contact its looks like a professional website. I am trying to solve real world like people who don't have any idea about some types of foods which are from different cultures around the world, this website gives an idea like how the food looks like and its features and people will allow to read food details and world famous chefs , and discover the most delicious dishes from this website. this website is good looking and useful to the people who is enthusiastic about cooking.
